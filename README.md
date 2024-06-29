@@ -15,6 +15,6 @@
 
 
 ### ✍️ Random Dev Quote
-![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://res.cloudinary.com/practicaldev/image/fetch/s--6qaBuTXO--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://corscheid.dev/images/fcc-random-quote-machine-angular.png))
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--6qaBuTXO--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://corscheid.dev/images/fcc-random-quote-machine-angular.png)
 
 
