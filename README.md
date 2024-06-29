@@ -12,13 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adrija26sg&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrija26sg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--6qaBuTXO--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://corscheid.dev/images/fcc-random-quote-machine-angular.png)
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://res.cloudinary.com/practicaldev/image/fetch/s--6qaBuTXO--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://corscheid.dev/images/fcc-random-quote-machine-angular.png))
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
