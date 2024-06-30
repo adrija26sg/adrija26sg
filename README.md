@@ -1,3 +1,7 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Adrija%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on<br><br>Analyzing EEG signals to decode upper limb movements using MNE-Python and machine learning algorithms, aiming to enhance neuroprosthetic applications.<br>👯 I’m looking to collaborate on<br><br>Open-source projects related to machine learning, full-stack web development, and innovative solutions in the tech industry.<br>🤝 I’m looking for help with<br><br>open source contributions.<br>⚡ Fun fact<br><br>I once optimized a website so much that even my coffee brewed faster. Web development: where "debugging" is actually looking at your code and wondering why it doesn't work like magic!
 
