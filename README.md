@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Analyzing EEG signals to decode upper limb movements using MNE-Python and machine learning algorithms, aiming to enhance neuroprosthetic applications.<br>👯 I’m looking to collaborate on<br><br>Open-source projects related to machine learning, full-stack web development, and innovative solutions in the tech industry.<br>🤝 I’m looking for help with<br><br>open source contributions.<br>⚡ Fun fact<br><br>I once optimized a website so much that even my coffee brewed faster. Web development: where "debugging" is actually looking at your code and wondering why it doesn't work like magic!
+🔭 I’m currently working on<br>Analyzing EEG signals to decode upper limb movements using MNE-Python and machine learning algorithms, aiming to enhance neuroprosthetic applications.<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to machine learning, full-stack web development, and innovative solutions in the tech industry.<br><br>🤝 I’m looking for help with<br>collaborative projects to work on.<br><br>⚡ Fun fact<br>I once optimized a website so much that even my coffee brewed faster. Web development: where "debugging" is actually looking at your code and wondering why it doesn't work like magic!
 
 
 ## 🌐 Socials:
